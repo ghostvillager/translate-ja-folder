@@ -1,0 +1,1 @@
+The design system is not just shared parts. If you look at only one side, accessibility quietly breaks. A solid foundation raises the team's resolution. Reusing components means we do not melt time. Ambiguous styles should be collapsed to the common side. This does not mean designers become unnecessary. It quietly helps day-to-day work.
